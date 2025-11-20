@@ -18,7 +18,7 @@ NetRecon scans networks to discover devices, identify open ports, detect running
 - **Multi-Format Reports** - Export as HTML, Markdown, JSON, or CLI tables
 - **Real-Time Alerts** - Discord notifications for critical findings
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # Install dependencies
@@ -34,7 +34,7 @@ python netrecon.py -n 192.168.1.0/24 -o html
 python netrecon.py --create-config
 ```
 
-## 📋 Usage
+##  Usage
 
 ```bash
 python netrecon.py -n <network> [options]
@@ -47,7 +47,7 @@ Options:
   --create-config    Generate sample config file
 ```
 
-## 📊 Example Output
+##  Example Output
 
 ```
 ╒══════════════╤════════════╤════════════╤════════════╤══════════════╕
@@ -89,4 +89,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
-**⚡ Security Testing Made Simple**
+** Security Testing Made Simple**
